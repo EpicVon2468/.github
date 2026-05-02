@@ -3,7 +3,7 @@ Greeting.  Singular.  Just the one.
 My name's Mavity The Madity.
 
 I like to program.  *A lot.* (See also: my GitHub contribution activity)<br>
-Currently most of my code is written in Rust, Kotlin or (ba)sh.<br>
+Currently most of my code is written in Rust, Kotlin, or (ba)sh.<br>
 Anything not written in those languages (particularly Java code) is horrific and should be ignored.
 
 Why yes, I am a Linux user.  How could you tell?
