@@ -14,3 +14,6 @@ My current active projects:
   - A utility written in Rust for managing Java Virtual Machine installations with ease, plus configuring the most performant/optimal settings.
 - [Capitol (from Create: Civilisation)](https://github.com/Create-Civilization/Capitol/)
   - A mod targeted at claim/team/war systems for Minecraft, featuring heavy integration with other mods such as Create.
+
+All my commits & emails are (from now on) [signed with my PGP key](https://github.com/EpicVon2468/.github/blob/master/PUBLIC_KEY.asc).<br>
+If I commit without verification, either I was stupid and forgot, or that isn't me.
