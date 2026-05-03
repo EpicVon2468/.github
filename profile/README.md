@@ -10,7 +10,7 @@ Why yes, I am a Linux user.  How could you tell?
 
 My current active projects:
 
-- [Fix Ur Java Install](https://github.com/EpicVon2468/fixmyjavainstall/)
+- [Fix Ur Java Install](https://github.com/EpicVon2468/fixurjavainstall/)
   - A utility written in Rust for managing Java Virtual Machine installations with ease, plus configuring the most performant/optimal settings.
 - [Capitol (from Create: Civilisation)](https://github.com/Create-Civilization/Capitol/)
   - A mod targeted at claim/team/war systems for Minecraft, featuring heavy integration with other mods such as Create.
